@@ -10,17 +10,14 @@ I'm Tiger.
     Full Stack Developer.
     Web Development.
     Linux Apache Nginx MySQL
-    PHP HTML CSS Javascript jQuery AJAX Python
-    CodeIgniter ThinkPHP ...
+    PHP HTML CSS Javascript jQuery Python
     Git/SVN
     Sublime Text  vim
     Mac OS X
-    Retina Macbook Pro 15 (2014 mid)
-    iPhone 6
+
 
 **Hacking 4 fun.**
 
-**Life is short, I use Python.**
 
 >http://about.me/DropFan
 >Twitter:@DropFan
