@@ -22,7 +22,7 @@ Just 4 fun!
     Software Architect
     Full Stack Developer
 
-Skills:
+    Skills:
     Software architecture design
     Backend Development
     Distributed System
