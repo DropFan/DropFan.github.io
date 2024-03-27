@@ -5,7 +5,7 @@ Hello World!
 
 I'm Tiger.
 
-I was born in 1990s, and living alone in Beijing now. My nickname is Tiger, another name is David.
+I was born in 1990s, and living alone in Beijing now. My nickname is *Tiger*, another name is *David*.
 
 I am a believer of technology , openness and freedom.
 
