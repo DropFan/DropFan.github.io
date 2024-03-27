@@ -23,6 +23,7 @@ Just 4 fun!
     Full Stack Developer
 
     Skills:
+    
     Software architecture design
     Backend Development
     Distributed System
