@@ -1,6 +1,8 @@
 About
 =================
 
+---
+
 hello, world
 
 I'm Tiger.
@@ -23,7 +25,7 @@ Just 4 fun!
     Full Stack Developer
 
     Skills:
-    
+
     Software architecture design
     Backend Development
     Distributed System
@@ -31,10 +33,10 @@ Just 4 fun!
     Linux Apache Nginx MySQL PostgreSQL Redis
     Golang PHP Python HTML CSS Javascript/Typescript
 
-[Github:Tiger](https://github.com/DropFan)
+[Github: Tiger](https://github.com/DropFan)
 
 [About.me](http://about.me/DropFan)
 
-[DropFan@Gmail.com](mailto:DropFan@Gmail.com)
+[Email: DropFan@Gmail.com](mailto:DropFan@Gmail.com)
 
 [Discussions/Guest Book](https://github.com/DropFan/DropFan.github.io/discussions)
