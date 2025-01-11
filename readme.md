@@ -1,7 +1,7 @@
-DropFan.github.io
+About
 =================
 
-Hello World!
+hello, world
 
 I'm Tiger.
 
@@ -30,6 +30,8 @@ Just 4 fun!
     Web Development
     Linux Apache Nginx MySQL PostgreSQL Redis
     Golang PHP Python HTML CSS Javascript/Typescript
+
+[Github:Tiger](https://github.com/DropFan)
 
 [About.me](http://about.me/DropFan)
 
