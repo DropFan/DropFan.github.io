@@ -3,16 +3,32 @@ About [V2DL](https://v2dl.net)
 
 v2: version 2
 v2: vision 2
-v2: we to
-v2: way to
-dl: digital/data life
+v2: way to/we to
+v2: valve to
+dl: digital life/lab/library
 dl: digital/data lab
 dl: digital/data library
+dl: down-low (discreet or secret)
+dl: 独 (dú) 立 (lì) independence
 
+v2dl: valve to digital line
+v2dl: virtual to digital life
 v2dl: version 2 digital life/lab/library
-v2dl: we/way to digital life
+v2dl: we/way to digital life/lab/library
 v2dl: we/way to 独 (dú) 立 (lì) 开发者 (indie hacker/developer/maker)
+v2dl: vision to 独立开发者
+v2dl: vision to digital life
 
+---
+
+Some Web Apps:
+
+[loan-calculator](https://loan.v2dl.net/?from=v2dl.net)
+[snake-game](https://snake-game.v2dl.net/?from=v2dl.net)
+
+---
+
+About me
 ---
 
 hello, world
@@ -24,6 +40,8 @@ I was born in 1990s, and living alone in Beijing now. My nickname is *Tiger*, an
 I am a believer of technology , openness and freedom.
 
 I like Apple's lifestyle and products especially iPhone, Macbook and Apple Watch, but not a full Apple fans.
+
+I like surfing on the Internet, coding, study anything I interested, and playing games. I often do some reading, sometimes I like watching movies or going for a walk or driving my car.
 
 Maybe I could be a Full Stack Developer? But it's not enough. I want to be an all-rounder man for anything I like.
 
@@ -89,6 +107,6 @@ About me
 
 [About.me](http://about.me/DropFan)
 
-[Email: DropFan@Gmail.com](mailto:DropFan@Gmail.com)
+[Email: hacking4fun@foxmail.com](mailto:hacking4fun@foxmail.com)
 
 [Discussions/Guest Book](https://github.com/DropFan/DropFan.github.io/discussions)
